@@ -14,13 +14,24 @@ The World Population Simulator is a program that calculates population growth. Y
 The program will output the total world population for each year.
 
 
-Software
+Plugins
+--------------
+Plugins can be written to add new features the the simulator, such as:
+
+- families: tracking family trees through hundreds or thousands of generations
+- economies: compare different economies to see which most greatly influences world population growth
+- countries: compare the effect of various government policies (immegration, foreign policy, etc) on world population growth
+- natural disasters: compare how different types affect world population growth
+- human diseases: compare how diseases that affect certain people affect world population growth
+
+
+Source Code
 --------------
 
-You can find a multi-threaded C++ version in the "src/cpp" directory, and a PHP version under "src/php".
+You can find a multi-threaded C++ version in the "src/cpp" directory, and a PHP version under "src/php". The PHP version was first written as a quick prototype. The C++ version was written to make use of all available CPU cores.
 
 
 License
 --------------
 
-This software is licensed under the The GNU General Public License v3.0.
+This software is licensed under the The GNU General Public License v3.0. 
