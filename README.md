@@ -16,7 +16,7 @@ The program will output the total world population for each year.
 
 Plugins
 --------------
-Plugins can be written to add new features the the simulator, such as:
+Plugins can be written to add new features to the simulator, such as:
 
 - families: tracking family trees through hundreds or thousands of generations
 - economies: compare different economies to see which most greatly influences world population growth
