@@ -20,7 +20,7 @@ Plugins can be written to add new features to the simulator, such as:
 
 - families: tracking family trees through hundreds or thousands of generations
 - economies: compare different economies to see which most greatly influences world population growth
-- countries: compare the effect of various government policies (immegration, foreign policy, etc) on world population growth
+- countries: compare the effect of various government policies (immigration, foreign policy, etc) on world population growth
 - natural disasters: compare how different types affect world population growth
 - human diseases: compare how diseases that affect certain people affect world population growth
 
