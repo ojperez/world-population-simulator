@@ -25,6 +25,13 @@ Plugins can be written to add new features the the simulator, such as:
 - human diseases: compare how diseases that affect certain people affect world population growth
 
 
+Online Demo
+----------------
+
+Coming soon! Please send me an email (yonas at fizk.net) if you'd like to help design the demo website.
+
+
+
 Source Code
 --------------
 
